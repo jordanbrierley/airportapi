@@ -71,7 +71,7 @@ class Airports extends Controller
         });
 
         $data = $this->fractal->createData($resource)->toJson();
-        return Response::json(['name' => 'Steve', 'state' => 'CA']);
+        return Response::json($data);
 
        // return view('jab.airports::airports-index');
 
