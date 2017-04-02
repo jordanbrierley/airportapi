@@ -1,0 +1,12 @@
+list: $/jab/airports/models/airports/columns.yaml
+modelClass: Jab\Airports\Models\Airports
+title: Airports
+noRecordsMessage: 'backend::lang.list.no_records'
+recordsPerPage: '50'
+showSetup: true
+showCheckboxes: true
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'jab/airports/airports/update/:id'

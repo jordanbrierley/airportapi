@@ -1,0 +1,6 @@
+plugin:
+    name: 'jab.airports::lang.plugin.name'
+    description: 'jab.airports::lang.plugin.description'
+    author: Jab
+    icon: oc-icon-plane
+    homepage: ''

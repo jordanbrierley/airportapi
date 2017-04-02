@@ -1,0 +1,15 @@
+columns:
+    airport_id:
+    name:
+    city:
+    country:
+    iata:
+    icao:
+    latitude:
+    longitude:
+    altitude:
+    timezone:
+    dst:
+    tz_database_time:
+    type:
+    source:

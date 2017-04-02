@@ -1,0 +1,9 @@
+tabs:
+    fields:
+        type_name:
+            label: 'jab.airports::lang.type.fields.typeName'
+            oc.commentPosition: ''
+            span: auto
+            required: 1
+            type: text
+            tab: 'Tab 1'

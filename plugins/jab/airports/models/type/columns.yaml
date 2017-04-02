@@ -1,0 +1,9 @@
+columns:
+    id:
+        label: 'jab.airports::lang.airport.field.airportId'
+        type: number
+        invisible: true
+    type_name:
+        label: 'jab.airports::lang.type.fields.typeName'
+        type: text
+        searchable: true

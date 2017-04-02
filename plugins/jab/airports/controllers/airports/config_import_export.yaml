@@ -1,0 +1,15 @@
+# ===================================
+#  Import/Export Behavior Config
+# ===================================
+
+import:
+    title: Import Airports
+    modelClass: Jab\Airports\Models\AirportsImport
+    list: $/jab/airports/models/airportsimport/columns.yaml
+    redirect: jab/airports/airports
+
+export:
+    title: Export Airports
+    modelClass: Jab\Airports\Models\AirportsExport
+    list: $/jab/airports/models/airports/columns.yaml
+    redirect: jab/airports/airports

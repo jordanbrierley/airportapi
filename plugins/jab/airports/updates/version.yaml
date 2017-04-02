@@ -1,0 +1,11 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table jab_airports_airports'
+    - builder_table_create_jab_airports_airports.php
+1.0.3:
+    - 'Created table jab_airports_type'
+    - builder_table_create_jab_airports_type.php
+1.0.4:
+    - 'Updated table jab_airports_airports'
+    - builder_table_update_jab_airports_airports.php

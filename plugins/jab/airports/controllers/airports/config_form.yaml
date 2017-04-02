@@ -1,0 +1,10 @@
+name: Airports
+form: $/jab/airports/models/airports/fields.yaml
+modelClass: Jab\Airports\Models\Airports
+defaultRedirect: jab/airports/airports
+create:
+    redirect: 'jab/airports/airports/update/:id'
+    redirectClose: jab/airports/airports
+update:
+    redirect: jab/airports/airports
+    redirectClose: jab/airports/airports

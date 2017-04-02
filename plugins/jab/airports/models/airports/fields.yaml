@@ -1,0 +1,90 @@
+tabs:
+    fields:
+        airport_id:
+            label: 'jab.airports::lang.airport.field.airportId'
+            oc.commentPosition: ''
+            span: auto
+            required: 1
+            type: number
+            tab: 'Tab 1'
+        name:
+            label: 'jab.airports::lang.airport.field.name'
+            oc.commentPosition: ''
+            span: auto
+            required: 1
+            type: text
+            tab: 'Tab 1'
+        city:
+            label: 'jab.airports::lang.airport.field.city'
+            oc.commentPosition: ''
+            span: auto
+            type: text
+            tab: 'Tab 1'
+        country:
+            label: 'jab.airports::lang.airport.field.country'
+            oc.commentPosition: ''
+            span: auto
+            type: text
+            tab: 'Tab 1'
+        iata:
+            label: 'jab.airports::lang.airport.field.iata'
+            oc.commentPosition: ''
+            span: auto
+            type: text
+            tab: 'Tab 1'
+        icao:
+            label: 'jab.airports::lang.airport.field.icao'
+            oc.commentPosition: ''
+            span: auto
+            type: text
+            tab: 'Tab 1'
+        latitude:
+            label: 'jab.airports::lang.airport.field.latitude'
+            oc.commentPosition: ''
+            span: auto
+            type: text
+            tab: 'Tab 1'
+        longitude:
+            label: 'jab.airports::lang.airport.field.longitude'
+            oc.commentPosition: ''
+            span: auto
+            type: text
+            tab: 'Tab 1'
+        altitude:
+            label: 'jab.airports::lang.airport.field.altitude'
+            oc.commentPosition: ''
+            span: auto
+            type: text
+            tab: 'Tab 1'
+        timezone:
+            label: 'jab.airports::lang.airport.field.timezone'
+            oc.commentPosition: ''
+            span: auto
+            type: text
+            tab: 'Tab 1'
+        dst:
+            label: 'jab.airports::lang.airport.field.dst'
+            oc.commentPosition: ''
+            span: auto
+            type: text
+            tab: 'Tab 1'
+        tz_database_time:
+            label: 'jab.airports::lang.airport.field.tzDatabaseTime'
+            oc.commentPosition: ''
+            span: auto
+            type: text
+            tab: 'Tab 1'
+        type:
+            label: 'jab.airports::lang.airport.field.type'
+            oc.commentPosition: ''
+            nameFrom: type_name
+            descriptionFrom: description
+            span: auto
+            type: relation
+            tab: 'Tab 1'
+        source:
+            label: 'jab.airports::lang.airport.field.source'
+            oc.commentPosition: ''
+            span: auto
+            type: text
+            tab: 'Tab 1'
